@@ -15,7 +15,7 @@ let theaterSeating = [
 console.log(theaterSeating);
 
 let contactsList = [
-["Name1", "Email", "Phone"],
-["Name", "Email", "Phone"]
+["Ria", "ria10@gmail.com", "123456"],
+["Priya", "priya20@gmail.com", "4673738"]
 ];
 console.log(contactsList);
